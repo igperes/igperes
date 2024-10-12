@@ -1,12 +1,18 @@
 ## Hi there 👋
 
-💻 Desenvolvedor Front-End em Formação
+💻 Desenvolvedor Fullstack em Formação
 
-Atualmente, estou me aprofundando nas tecnologias de desenvolvimento web com foco em Front-End. Minhas áreas de estudo incluem:
+Atualmente, estou me aprofundando nas tecnologias de desenvolvimento web. Minhas áreas de estudo incluem:
 
     HTML5: Estruturando a web com semântica e boas práticas.
     CSS3: Estilizando páginas web com design responsivo e animações.
     JavaScript: Aprendendo a adicionar interatividade e dinamismo aos websites.
+    Node.js: Desenvolvendo back-end com JavaScript e criando APIs robustas.
+    MongoDB: Utilizando banco de dados NoSQL para armazenar e gerenciar dados de forma flexível.
+    React.js: Criando interfaces de usuário dinâmicas e reativas.
+    Git e GitHub: Gerenciando versionamento de código e colaborando em projetos de forma eficiente.
+    TypeScript: Aumentando a segurança e a escalabilidade do código JavaScript com tipagem estática.
+    
 
 🚀 Projetos e Objetivos
 
